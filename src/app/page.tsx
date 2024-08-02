@@ -120,17 +120,17 @@ export default function Index() {
                 / &#8205; <AnimatedTitle />
               </div>
               <p className="max-w-3xl">
-              From an early age, I was drawn to technology and its potential to make a meaningful impact on people's lives. I'm a software engineer with a B.S. in Computer Science. I have a strong focus on JavaScript and its modern frameworks, specializing in Front-End technologies like React and Next.js, as well as Back-End development using Node.js.
+                From an early age, I was drawn to technology and its potential to make a meaningful impact on people&apos;s lives. I&apos;m a software engineer with a B.S. in Computer Science. I have a strong focus on JavaScript and its modern frameworks, specializing in Front-End technologies like React and Next.js, as well as Back-End development using Node.js.
               </p>
             </FadeIn>
 
             <Socials />
-            <div className="scroll-down" >
+            <div className="scroll-down">
               <span></span>
               <span></span>
               <span></span>
             </div>
-          </div>{' '}
+          </div>
           <Border />
           <AboutMe />
         </Container>
